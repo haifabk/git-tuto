@@ -1,0 +1,53 @@
+
+.jumbotron {
+     padding-top: 0px !important ;
+     padding-bottom: 0px !important; 
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+}
+.sign-in{
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -0.16px;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #8d448b;
+    color: #8d448b;
+    padding: 8px 24px;
+    margin-top: 3px;
+}
+.sign-in:hover{
+    background-color: #8d448b;
+    color: #ffffff;
+}
+.active{--theme-ui-colors-border_color: #E9EDF5;
+    --theme-ui-colors-primary: #8D448B;
+    --theme-ui-colors-secondary: #793677;
+    --theme-ui-colors-black: #0F2137;
+    --theme-ui-colors-gray: #F8FAFC;
+    --theme-ui-colors-muted: #7B8188;
+    --theme-ui-colors-accent: #609;
+    color: var(--theme-ui-colors-text);
+ }
+
+.container{
+    text-align: center;
+}
+.navbar-brand
+{box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-family: Shizuru,cursive;
+    font-weight: 700;
+}
+h1{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+ }
+ 
